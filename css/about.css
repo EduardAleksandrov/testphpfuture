@@ -1,0 +1,100 @@
+* {
+	margin:0px;
+	padding: 0px;
+}
+.c-button {
+	border: 3px solid;
+	border-color:000000;
+  border-radius: 4px;
+  background: eeeeee;
+  color: 000000;
+  font-size: 16px;
+	margin-left:318px;
+  padding: 12px 24px 12px 24px;
+}
+.c-button:hover {
+	background: #cbf2cb;
+	cursor: pointer;
+}
+textarea{
+	background-color: #f7f7f7;
+	border: 3px solid;
+	border-radius: 4px;
+	resize: none;
+}
+textarea:focus{
+	border:3px solid #10a115;
+	outline: 0px;
+}
+.text1{
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+}
+.text1:focus{
+	border:3px solid #10a115;
+	outline: 0px;
+}
+#MainSidebar{
+  /*border: 1px solid black;*/
+	border:none;
+	background: none;  
+	display: block;
+	font-size: 20px;
+	margin: 0px;
+	overflow: auto;
+
+	position: absolute;
+  left: 21%;
+  top: 260px;
+  height: 260px;
+	width: 900px;
+}
+.note1{
+	position: absolute;
+  left: 21%;
+  top: 50px;
+	height: 100px;
+  width: 430px;
+}
+.letter{
+	font-size: 350%;
+}
+.note2{
+	position: absolute;
+  left: 21%;
+  top: 550px;
+	height: 100px;
+  width: 430px;
+	font-size: 25px;
+}
+.container{
+	position: absolute;
+  left: 21%;
+  top: 600px;
+	height: 100px;
+  width: 430px;
+}
+.note3{
+	position: absolute;
+  left: 32%;
+  top: 935px;
+	height: 100px;
+  width: 430px;
+}
+.note4{
+	position: absolute;
+  left: 21%;
+  top: 540px;
+	height: 2px;
+  width: 900px;
+	
+.hr-line {
+	margin: 0px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #333;
+}
+
+
